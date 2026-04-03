@@ -1,0 +1,16 @@
+# Student Grade Tracker
+
+This is a Java console application developed as part of CodeAlpha Internship.
+
+## Features
+- Add student names and marks
+- Calculate average, highest, lowest
+- Display student report
+
+## Technologies Used
+- Java
+- ArrayList
+- OOP Concepts
+
+## Author
+Your Name
